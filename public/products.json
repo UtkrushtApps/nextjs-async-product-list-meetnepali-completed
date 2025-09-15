@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "name": "Premium Water Bottle",
+    "price": 449,
+    "image": "/sample-bottle.jpg",
+    "description": "500ml insulated, sustainable bottle for travel."
+  },
+  {
+    "id": "p2",
+    "name": "Yoga Mat",
+    "price": 899,
+    "image": "/sample-mat.jpg",
+    "description": "Non-slip, eco-friendly, thick yoga mat for all levels."
+  },
+  {
+    "id": "p3",
+    "name": "Smart Fitness Band",
+    "price": 1499,
+    "image": "/sample-band.jpg",
+    "description": "Track workouts, heart rate, and more with this wearable."
+  }
+]
