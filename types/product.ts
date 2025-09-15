@@ -5,3 +5,9 @@ export interface Product {
   image: string;
   description: string;
 }
+
+export interface AnalyticsPayload {
+  event: string;
+  timestamp: string;
+  page: string;
+}
